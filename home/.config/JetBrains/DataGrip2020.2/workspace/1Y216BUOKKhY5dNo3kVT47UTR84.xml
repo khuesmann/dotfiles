@@ -1,0 +1,560 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cleveros" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cleveros" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cleveros" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cleveros: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cleveros" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cleveros: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="products: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/article_sub_types">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/goods_out_haccps">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/orders">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+              <filtering>
+                <filter text="id=8292" />
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/products">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+              <filtering>
+                <filter text="id=712" />
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+      <find>lanr</find>
+      <find>bsnr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b464e73d-9758-4596-92e2-0a4176a7a7c2/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b34ba7fd-59e7-44f7-a538-d9359bb60eba/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a188f3b4-f002-46d2-a051-5679cad1f074/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a188f3b4-f002-46d2-a051-5679cad1f074/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/151c9c64-68f4-4336-aa71-a4d3d560a171/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="2106" y="27" width="1717" height="1009" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="cleveros: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="cleveros: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6d4fb37e" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="immobill@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="immobill@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@644ae3fd" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.3040096" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3148585" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" weight="0.31578946" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/migrations" />
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_dc_account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_patient">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_pa_address">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_prescription_file">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/6959eec642ae4112949bb93617b6a484/table/financings">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/6959eec642ae4112949bb93617b6a484/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="be776ecf-0d18-46a3-a7d0-7e726234a6e7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mrbackend/mrbackend_mro_dc_account.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/article_names" />
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/articles" />
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_patient_portal_practice">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="f9734860-59f3-4e21-a034-a9d4cc3a5d59" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_ncov_symptoms">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="f9734860-59f3-4e21-a034-a9d4cc3a5d59" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_ncov_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="REGULAR" projectRestartId="e564ea17-cfa6-4919-b38b-bb4f640245fb" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_ncov_form_step">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="a9c3674a-2e23-4ca6-9e74-ba5f2a894361" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_doc_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_dc_register">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_dc_practice_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_patient_portal_practice_setting">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_practice_location">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_patient_portal_dispatch">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_prescription">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_patient_portal_doctor_setting">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_dc_push_notification">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b34ba7fd-59e7-44f7-a538-d9359bb60eba/schema/mrbackend/table/mro_insurance_card_public_scan">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="4da09ddc-2e1a-4aa2-a195-33fb02fd4b0d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/article_nutritions" />
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/ht_sender_names" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a188f3b4-f002-46d2-a051-5679cad1f074/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a188f3b4-f002-46d2-a051-5679cad1f074/schema/cleveros/table/collective_pickups" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/151c9c64-68f4-4336-aa71-a4d3d560a171/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/goods_in_articles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/employees">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/warehouse_log_entries">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/articles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="id=45" />
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/specifications">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/6959eec642ae4112949bb93617b6a484/table/branch_offices">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/6959eec642ae4112949bb93617b6a484/table/absence_types">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/immobill_tenency/table/hostnames">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/6959eec642ae4112949bb93617b6a484/table/commission_recipients">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/immobill_tenency/table/websites">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/schema/immobill_tenency/table/migrations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="17fe9049-2290-4ab0-8ea9-3f69c8620ba0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/user/cc101647540c449aa14de446df962a5a@&amp;at;127.0.0.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6dfc54e2-4ba4-4a34-ae2b-a3716eee3bd7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/recipe_products">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="d47b535b-6250-4642-b225-85a5cee44361" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/recipes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="d47b535b-6250-4642-b225-85a5cee44361" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/shift_items">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="d47b535b-6250-4642-b225-85a5cee44361" pageSize="500">
+          <filtering>
+            <filter text="order_id=8292" />
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0222c064-4bf2-4412-9dfe-ba4941f40895/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/article_sub_types">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/orders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+          <filtering>
+            <filter text="id=8292" />
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/products">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+          <filtering>
+            <filter text="id=712" />
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://151c9c64-68f4-4336-aa71-a4d3d560a171/schema/cleveros/table/goods_out_haccps">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="24d626d4-e982-422f-a4b2-2f965dc6660b" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

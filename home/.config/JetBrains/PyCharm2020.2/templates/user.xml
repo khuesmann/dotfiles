@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="inp" value="import numpy as np" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+  <template name="iplt" value="import matplotlib.pyplot as plt&#10;        import matplotlib as mpl&#10;        mpl.rcParams['figure.dpi'] = 300" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+</templateSet>

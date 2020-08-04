@@ -1,0 +1,7 @@
+a = ["0.54wd0.95"]
+-. . -..- - / . -. - .-. -.--
+[int(aa) for aa in a]
+-. . -..- - / . -. - .-. -.--
+import tensorflow
+-. . -..- - / . -. - .-. -.--
+tensorflow.__version__

@@ -1,0 +1,7 @@
+tensorflow.__version__
+-. . -..- - / . -. - .-. -.--
+import tensorflow
+-. . -..- - / . -. - .-. -.--
+import tensorflow as tf
+-. . -..- - / . -. - .-. -.--
+tf.__version__

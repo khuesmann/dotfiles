@@ -1,0 +1,43 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.1920.1080" x="2516" y="214" />
+    <location key="find.popup.0.0.1920.1080" x="596" y="253" />
+    <size key="find.popup.1920.0.1920.1080" width="821" height="618" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1874" height="253" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1874" height="253" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1874" height="253" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1874" height="253" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1874" height="310" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1874" height="310" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1874" height="310" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1874" height="310" />
+    <size key="find.popup.0.0.1920.1080" width="727" height="554" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="244" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="244" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="244" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="244" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1081" y="0" width="1900" height="784" extendedState="6" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="742" y="216" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592591465182">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="742" y="216" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1009/1920.0.1920.1080" timestamp="1592591465182" />
+  </component>
+</application>

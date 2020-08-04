@@ -1,0 +1,28 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="DBE.Init.Cfg.1" value="true" />
+    <property name="DBE.Init.DialogShown.Ide" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="KEYMAP" value="close&#10;settings" />
+    <property name="MarketplacePluginsSearchHistory" value="material" />
+    <property name="appcds.runOnSecondStart" value="DB-202.6397.93-6b7147b81bbddc09e930e4abb85f83eec71e79733fc9c2537a561dbd625397db" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$CreateObject$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$ModifyObject$1.previewExpanded" value="true" />
+    <property name="database.data.extractors.output.dir" value="" />
+    <property name="database.data.extractors.single.file" value="true" />
+    <property name="database.data.extractors.sql.create.table" value="true" />
+    <property name="evlsprt3.193" value="19" />
+    <property name="evlsprt3.201" value="17" />
+    <property name="evlsprt3.202" value="10" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.ssh/id_rsa&#10;/home/karim/Downloads/clever_os_2020-05-16.sql&#10;/home/karim/Downloads/clever_os_2020-04-26.sql&#10;/home/karim/Downloads/Database/2020-05-08-.sql&#10;/home/karim/Downloads/Database/2020-05-08--immobill.sql.gz&#10;/home/karim/Downloads/mrbackend&#10;/home/karim/Downloads&#10;/home/karim/Downloads/immobill_2020-03-18.sql&#10;/home/karim/Downloads/6959eec642ae4112949bb93617b6a484_2020-03-18.sql&#10;/home/karim/Downloads/clever_os_2020-02-24.sql" />
+    <property name="file.gist.reindex.count" value="327" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="import_error_directory" value="$USER_HOME$" />
+    <property name="import_write_errors" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa" />
+  </component>
+</application>

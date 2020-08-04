@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="vue" value="&lt;template&gt;&lt;/template&gt;&#10;&lt;script&gt;&#10;    export default {&#10;        props: {},&#10;        data() {&#10;            return {}&#10;        },&#10;        created() {},&#10;        mounted() {},&#10;        watch: {},&#10;        computed: {},&#10;        methods: {}&#10;    }&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

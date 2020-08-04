@@ -1,0 +1,76 @@
+[1,2,3] - [1]
+-. . -..- - / . -. - .-. -.--
+arr = [1,2,3]
+-. . -..- - / . -. - .-. -.--
+for a in arr:
+    print(a)
+    arr.remove(3)
+    
+-. . -..- - / . -. - .-. -.--
+for a in arr:
+    print(a)
+    if 3 in arr:
+        arr.remove(3)
+    
+-. . -..- - / . -. - .-. -.--
+str({"a": "b"})
+-. . -..- - / . -. - .-. -.--
+from dateutil.parser import parse
+
+def is_date(string, fuzzy=False):
+    """
+    Return whether the string can be interpreted as a date.
+
+    :param string: str, string to check for date
+    :param fuzzy: bool, ignore unknown tokens in string if True
+    """
+    try: 
+        parse(string, fuzzy=fuzzy)
+        return True
+
+    except ValueError:
+        return False
+    
+-. . -..- - / . -. - .-. -.--
+is_date('02')
+-. . -..- - / . -. - .-. -.--
+is_date('023433')
+-. . -..- - / . -. - .-. -.--
+is_date('02022020')
+-. . -..- - / . -. - .-. -.--
+is_date('03')
+-. . -..- - / . -. - .-. -.--
+is_date('12')
+-. . -..- - / . -. - .-. -.--
+is_date('13')
+-. . -..- - / . -. - .-. -.--
+min(None, 0)
+-. . -..- - / . -. - .-. -.--
+from dateutil.parser import parse
+
+-. . -..- - / . -. - .-. -.--
+parse(101577500)
+-. . -..- - / . -. - .-. -.--
+from dateutil.parser import parse
+-. . -..- - / . -. - .-. -.--
+parse(2604399682)
+-. . -..- - / . -. - .-. -.--
+parse("2604399682")
+-. . -..- - / . -. - .-. -.--
+"abc" + None
+-. . -..- - / . -. - .-. -.--
+a = "1234"
+-. . -..- - / . -. - .-. -.--
+a[0] = "I"
+-. . -..- - / . -. - .-. -.--
+a[1:]
+-. . -..- - / . -. - .-. -.--
+"I" + a[1:]
+-. . -..- - / . -. - .-. -.--
+import ghostscript
+-. . -..- - / . -. - .-. -.--
+dict(None)
+-. . -..- - / . -. - .-. -.--
+import flask
+-. . -..- - / . -. - .-. -.--
+flask.__version__

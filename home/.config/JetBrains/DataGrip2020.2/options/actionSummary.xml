@@ -1,0 +1,111 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="1" last="1592425804598" />
+      </entry>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1592425797298" />
+      </entry>
+      <entry key="$SelectAll">
+        <ActionSummary times="15" last="1592257498810" />
+      </entry>
+      <entry key="CloseContent">
+        <ActionSummary times="1" last="1587895870528" />
+      </entry>
+      <entry key="Console.Jdbc.Execute">
+        <ActionSummary times="20" last="1588978856991" />
+      </entry>
+      <entry key="Console.TableResult.Reload">
+        <ActionSummary times="24" last="1592426154793" />
+      </entry>
+      <entry key="Console.TableResult.ShowDumpDialogAction">
+        <ActionSummary times="1" last="1587913618680" />
+      </entry>
+      <entry key="Console.TableResult.Submit">
+        <ActionSummary times="2" last="1592425809273" />
+      </entry>
+      <entry key="DatabaseView.AddActionGroupPopup">
+        <ActionSummary times="2" last="1593462612665" />
+      </entry>
+      <entry key="DatabaseView.AddSchemasAction">
+        <ActionSummary times="1" last="1587895971346" />
+      </entry>
+      <entry key="DatabaseView.CloseConnectionAction">
+        <ActionSummary times="1" last="1593463109619" />
+      </entry>
+      <entry key="DatabaseView.Ddl.AlterObject">
+        <ActionSummary times="1" last="1587895958761" />
+      </entry>
+      <entry key="DatabaseView.DropAction">
+        <ActionSummary times="25" last="1593463114620" />
+      </entry>
+      <entry key="DatabaseView.ImportFromSql">
+        <ActionSummary times="8" last="1589833283077" />
+      </entry>
+      <entry key="DatabaseView.PropertiesAction">
+        <ActionSummary times="3" last="1588977376372" />
+      </entry>
+      <entry key="DatabaseView.Refresh">
+        <ActionSummary times="169" last="1592425791463" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="9" last="1588971799171" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="1" last="1587896125194" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="7" last="1592257576237" />
+      </entry>
+      <entry key="EditorDelete">
+        <ActionSummary times="2" last="1588976684477" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="17" last="1593462655257" />
+      </entry>
+      <entry key="Jdbc.OpenConsole.Any">
+        <ActionSummary times="1" last="1587896115075" />
+      </entry>
+      <entry key="Jdbc.OpenEditor">
+        <ActionSummary times="2" last="1588971827243" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1588972746785" />
+      </entry>
+      <entry key="Tree-selectChild">
+        <ActionSummary times="2" last="1593462675667" />
+      </entry>
+      <entry key="Tree-selectNext">
+        <ActionSummary times="31" last="1593462676964" />
+      </entry>
+      <entry key="Tree-selectPrevious">
+        <ActionSummary times="5" last="1593462677122" />
+      </entry>
+      <entry key="com.intellij.database.actions.DdlActions$CreateObject">
+        <ActionSummary times="3" last="1588977341315" />
+      </entry>
+      <entry key="com.intellij.database.dataSource.LocalDataSourceManager$2">
+        <ActionSummary times="2" last="1593462614840" />
+      </entry>
+      <entry key="com.intellij.database.run.ui.grid.GridFilterPanel$ApplyAction">
+        <ActionSummary times="4" last="1592257583822" />
+      </entry>
+      <entry key="com.intellij.database.util.DbUIUtil$4">
+        <ActionSummary times="2" last="1587896275567" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
+        <ActionSummary times="1" last="1586864062319" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
+        <ActionSummary times="32" last="1588977352913" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$1">
+        <ActionSummary times="1" last="1586864059605" />
+      </entry>
+      <entry key="com.intellij.ui.TreeSpeedSearch$MySelectAllAction">
+        <ActionSummary times="1" last="1587913853708" />
+      </entry>
+    </data>
+  </component>
+</application>
