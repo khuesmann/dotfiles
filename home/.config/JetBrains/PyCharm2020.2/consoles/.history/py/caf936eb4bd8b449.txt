@@ -1,7 +1,0 @@
-import torch
--. . -..- - / . -. - .-. -.--
-torch.__version__
--. . -..- - / . -. - .-. -.--
-torch.cuda.is_ac
--. . -..- - / . -. - .-. -.--
-torch.cuda.is_available()

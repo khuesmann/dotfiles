@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SqlDialectMappings">
-    <file url="file://$USER_HOME$/Downloads/Database/2020-05-08--immobill.sql.gz" dialect="MySQL" />
-    <file url="file://$USER_HOME$/Downloads/dump.sql" dialect="MariaDB" />
-  </component>
-</project>

@@ -1,1 +1,0 @@
-select * from mro_migrations;
