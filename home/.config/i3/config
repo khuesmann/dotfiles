@@ -9,7 +9,7 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-set $mod mod1
+set $mod mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -177,9 +177,16 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
-}
+         status_command i3status
+ }
 
 exec --no-startup-id i3-msg 'workspace 1:Chrome; exec google-chrome; workspace 2; exec bash; workspace 3; exec franz'
 
-bindsym $mod+p exec "rofi -show run"
+bindsym $mod+p exec "rofi -show run -theme glue_pro_blue"
+bindsym $mod+c exec "rofi -show calc -theme glue_pro_blue"
+bindsym $mod+Shift+x exec "i3lock && sleep 2 && xset dpms force off"
+
+# Start polybar
+# exec --no-startup-id $HOME/.config/polybar/launch.sh
+#
+# exec --no-startup-id compton --config ~/.config/compton.conf -b
