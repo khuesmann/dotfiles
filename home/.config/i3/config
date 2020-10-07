@@ -13,7 +13,7 @@ set $mod mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+font pango:Operator Mono 10
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -176,17 +176,30 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-         status_command i3status
- }
+# bar {
+#         status_command i3status
+# }
 
 exec --no-startup-id i3-msg 'workspace 1:Chrome; exec google-chrome; workspace 2; exec bash; workspace 3; exec franz'
 
-bindsym $mod+p exec "rofi -show run -theme glue_pro_blue"
-bindsym $mod+c exec "rofi -show calc -theme glue_pro_blue"
-bindsym $mod+Shift+x exec "i3lock && sleep 2 && xset dpms force off"
+bindsym $mod+p exec "rofi -show run"
+bindsym $mod+c exec "rofi -show calc"
+bindsym $mod+Shift+x exec "i3lock --color=000000 && sleep 2 && xset dpms force off"
 
 # Start polybar
-# exec --no-startup-id $HOME/.config/polybar/launch.sh
-#
-# exec --no-startup-id compton --config ~/.config/compton.conf -b
+exec --no-startup-id $HOME/.config/polybar/launch.sh
+
+
+# focus
+focus_follows_mouse no
+
+
+# theming
+# class                 border  backgr. text    indicator child_border
+client.focused          #0277BD #0277BD #ffffff #2eb3fe   #222222
+client.focused_inactive #444444 #444444 #ffffff #484e50   #5f676a
+client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+client.urgent           #D32F2F #D32F2F #ffffff #900000   #900000
+client.placeholder      #>000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+client.background       #222222
